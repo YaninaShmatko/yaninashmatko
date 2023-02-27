@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**YaninaShmatko/yaninashmatko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <h1>
+  <img src="https://komarev.com/ghpvc/?username=yaninashmatko&style=flat-square&color=blue" alt=""/>
+    </h1>
+</div>
 
-Here are some ideas to get you started:
+### Hi there 👋 I'm Yanina Shmatko. 
+I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning at Yandex.Practicum
+- 📫 How to reach me: [Telegram](https://t.me/yaninashmatko)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yaninashmatko&theme=dark&background=000000)](https://git.io/streak-stats)
